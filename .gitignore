@@ -1,0 +1,14 @@
+# Secrets
+firmware/accident_detector/secrets.h
+
+# Build output / IDE
+build/
+.pio/
+.vscode/
+.idea/
+*.hex
+*.elf
+
+# OS
+.DS_Store
+Thumbs.db
